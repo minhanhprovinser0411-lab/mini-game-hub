@@ -1,0 +1,6 @@
+{
+  "name": "PlayVerse Minigame Hub",
+  "description": "Trung tâm minigame hấp dẫn với nhiều trò chơi giải trí, bảng xếp hạng và đồng bộ lưu trữ đám mây qua Google Drive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
